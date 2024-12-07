@@ -1,12 +1,12 @@
 # csassignment4
 Mason Milliman 49201977
 
-Checking password: account8
-Password strong: true
-Search cost (separate chaining, old hash): 0
-Search cost (linear probing, old hash): 1
-Search cost (separate chaining, current hash): 0
-Search cost (linear probing, current hash): 1
+Checking password: account8 
+Password strong: true 
+Search cost (separate chaining, old hash): 0 
+Search cost (linear probing, old hash): 1 
+Search cost (separate chaining, current hash): 0 
+Search cost (linear probing, current hash): 1 
 
 Checking password: accountability
 Password strong: true
