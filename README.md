@@ -1,5 +1,5 @@
 # csassignment4
-Mason Milliman 49201977  
+Mason Milliman - 49201977  
 
 Checking password: account8  
 Password strong: true  
